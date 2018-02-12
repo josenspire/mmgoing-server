@@ -1,0 +1,22 @@
+{
+  "name": "express-module-cli",
+  "version": "0.0.0",
+  "author": "James.Y.Yang",
+  "private": true,
+  "scripts": {
+    "start": "supervisor ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.9",
+    "morgan": "~1.8.1",
+    "request": "^2.83.0",
+    "serve-favicon": "~2.4.2",
+    "superagent": "^3.6.0"
+  }
+}
